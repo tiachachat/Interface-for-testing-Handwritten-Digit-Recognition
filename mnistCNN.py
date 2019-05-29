@@ -1,3 +1,7 @@
+"""
+Author of this file is tankala
+https://github.com/tankala/ai-examples/blob/master/mnistCNN.py
+"""
 import numpy
 from keras.datasets import mnist
 from keras.models import Sequential
